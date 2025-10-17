@@ -1,0 +1,8 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\obj\Debug\Hafta2.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\obj\Debug\Hafta2.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\bin\Debug\Hafta2.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\bin\Debug\Hafta2.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\bin\Debug\Hafta2.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\obj\Debug\Hafta2.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\obj\Debug\Hafta2.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta2\obj\Debug\Hafta2.exe.config

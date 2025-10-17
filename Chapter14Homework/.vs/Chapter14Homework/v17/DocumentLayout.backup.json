@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\Chapter14Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C349A97C-7419-4105-BE61-96DFEA2A25A6}|Chapter14Homework.csproj|c:\\users\\ms\u0130\\onedrive\\masa\u00FCst\u00FC\\kb\u00FC\\visual programming\\chapter14homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349A97C-7419-4105-BE61-96DFEA2A25A6}|Chapter14Homework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C349A97C-7419-4105-BE61-96DFEA2A25A6}|Chapter14Homework.csproj|c:\\users\\ms\u0130\\onedrive\\masa\u00FCst\u00FC\\kb\u00FC\\visual programming\\chapter14homework\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C349A97C-7419-4105-BE61-96DFEA2A25A6}|Chapter14Homework.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\Chapter14Homework\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\Chapter14Homework\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:27:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\Chapter14Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\Chapter14Homework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:54:00.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

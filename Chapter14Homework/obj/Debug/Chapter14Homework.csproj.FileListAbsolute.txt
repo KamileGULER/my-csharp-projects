@@ -1,0 +1,7 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\obj\Debug\Chapter14Homework.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\obj\Debug\Chapter14Homework.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\bin\Debug\Chapter14Homework.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\bin\Debug\Chapter14Homework.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\bin\Debug\Chapter14Homework.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\obj\Debug\Chapter14Homework.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Chapter14Homework\obj\Debug\Chapter14Homework.pdb

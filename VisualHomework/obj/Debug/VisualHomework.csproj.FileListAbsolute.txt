@@ -1,0 +1,10 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\bin\Debug\VisualHomework.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\bin\Debug\VisualHomework.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\bin\Debug\VisualHomework.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\VisualHomework\obj\Debug\VisualHomework.pdb

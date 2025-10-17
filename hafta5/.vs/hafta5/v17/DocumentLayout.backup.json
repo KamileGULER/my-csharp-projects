@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD8BE0-9ACB-49BA-9195-C023B7975278}|hafta5.csproj|c:\\users\\ms\u0130\\onedrive\\masa\u00FCst\u00FC\\kb\u00FC\\visual programming\\hafta5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD8BE0-9ACB-49BA-9195-C023B7975278}|hafta5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD8BE0-9ACB-49BA-9195-C023B7975278}|hafta5.csproj|C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD8BE0-9ACB-49BA-9195-C023B7975278}|hafta5.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD8BE0-9ACB-49BA-9195-C023B7975278}|hafta5.csproj|c:\\users\\ms\u0130\\onedrive\\masa\u00FCst\u00FC\\kb\u00FC\\visual programming\\hafta5\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD8BE0-9ACB-49BA-9195-C023B7975278}|hafta5.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\Car.cs*",
+              "RelativeToolTip": "Car.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:09:53.234Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\vehicle.cs",
+              "RelativeDocumentMoniker": "vehicle.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\vehicle.cs*",
+              "RelativeToolTip": "vehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T16:18:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MS\u0130\\OneDrive\\Masa\u00FCst\u00FC\\KB\u00DC\\Visual Programming\\hafta5\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:01:06.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

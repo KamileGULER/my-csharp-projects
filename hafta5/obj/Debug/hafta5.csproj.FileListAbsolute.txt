@@ -1,0 +1,8 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\bin\Debug\hafta5.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\bin\Debug\hafta5.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\bin\Debug\hafta5.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\obj\Debug\hafta5.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\obj\Debug\hafta5.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\obj\Debug\hafta5.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\obj\Debug\hafta5.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta5\obj\Debug\hafta5.exe.config

@@ -1,0 +1,8 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\bin\Debug\hafta2.2.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\bin\Debug\hafta2.2.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\bin\Debug\hafta2.2.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\obj\Debug\hafta2.2.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\obj\Debug\hafta2.2.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\obj\Debug\hafta2.2.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\obj\Debug\hafta2.2.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta2.2\obj\Debug\hafta2.2.exe.config
