@@ -1,0 +1,8 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\obj\Debug\SpaceCount.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\obj\Debug\SpaceCount.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\bin\Debug\SpaceCount.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\bin\Debug\SpaceCount.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\bin\Debug\SpaceCount.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\obj\Debug\SpaceCount.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\obj\Debug\SpaceCount.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\SpaceCount\obj\Debug\SpaceCount.exe.config

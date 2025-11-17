@@ -1,0 +1,8 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\bin\Debug\TimeIsTicking.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\bin\Debug\TimeIsTicking.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\bin\Debug\TimeIsTicking.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\obj\Debug\TimeIsTicking.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\obj\Debug\TimeIsTicking.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\obj\Debug\TimeIsTicking.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\obj\Debug\TimeIsTicking.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\TimeIsTicking\obj\Debug\TimeIsTicking.exe.config

@@ -1,0 +1,17 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\bin\Debug\net8.0-windows\Hafta6.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\bin\Debug\net8.0-windows\Hafta6.deps.json
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\bin\Debug\net8.0-windows\Hafta6.runtimeconfig.json
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\bin\Debug\net8.0-windows\Hafta6.dll
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\bin\Debug\net8.0-windows\Hafta6.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.AssemblyInfoInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.AssemblyInfo.cs
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.sourcelink.json
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.dll
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\refint\Hafta6.dll
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\Hafta6.genruntimeconfig.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta6\obj\Debug\net8.0-windows\ref\Hafta6.dll

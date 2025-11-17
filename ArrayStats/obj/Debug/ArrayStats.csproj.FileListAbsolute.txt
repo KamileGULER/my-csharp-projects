@@ -1,0 +1,8 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\obj\Debug\ArrayStats.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\obj\Debug\ArrayStats.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\bin\Debug\ArrayStats.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\bin\Debug\ArrayStats.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\bin\Debug\ArrayStats.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\obj\Debug\ArrayStats.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\obj\Debug\ArrayStats.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\ArrayStats\obj\Debug\ArrayStats.exe.config
