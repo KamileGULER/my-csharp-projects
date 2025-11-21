@@ -1,0 +1,16 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta10.2\obj\Debug\hafta10.2.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta10.2\obj\Debug\hafta10._2.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta10.2\obj\Debug\hafta10._2.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta10.2\obj\Debug\hafta10.2.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\hafta10.2\obj\Debug\hafta10.2.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10.2.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10._2.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10._2.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10.2.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10.2.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\bin\Debug\hafta10.2.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\bin\Debug\hafta10.2.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\bin\Debug\hafta10.2.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10.2.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10.2.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\hafta10.2\obj\Debug\hafta10.2.exe.config

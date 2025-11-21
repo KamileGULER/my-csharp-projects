@@ -1,0 +1,11 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\bin\Debug\Hafta10.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\bin\Debug\Hafta10.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\bin\Debug\Hafta10.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\Visual Programming\Hafta10\obj\Debug\Hafta10.exe.config
