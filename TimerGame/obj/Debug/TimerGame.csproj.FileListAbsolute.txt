@@ -1,0 +1,12 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\bin\Debug\TimerGame.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\bin\Debug\TimerGame.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\bin\Debug\TimerGame.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\TimerGame.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\TimerGame\obj\Debug\Form1.resources

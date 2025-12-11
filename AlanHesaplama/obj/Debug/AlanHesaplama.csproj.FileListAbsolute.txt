@@ -1,0 +1,10 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\bin\Debug\AlanHesaplama.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\bin\Debug\AlanHesaplama.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\bin\Debug\AlanHesaplama.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\AlanHesaplama\obj\Debug\AlanHesaplama.pdb

@@ -1,0 +1,11 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\bin\Debug\grafik.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\bin\Debug\grafik.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\bin\Debug\grafik.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\grafik\obj\Debug\grafik.exe.config

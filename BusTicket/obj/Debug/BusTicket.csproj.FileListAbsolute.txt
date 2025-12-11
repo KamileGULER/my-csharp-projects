@@ -1,0 +1,11 @@
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\bin\Debug\BusTicket.exe.config
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\bin\Debug\BusTicket.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\bin\Debug\BusTicket.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.csproj.AssemblyReference.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.Form1.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.Properties.Resources.resources
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.csproj.GenerateResource.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.exe
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.pdb
+C:\Users\MSİ\OneDrive\Masaüstü\KBÜ\VisualProgramming\BusTicket\obj\Debug\BusTicket.exe.config
