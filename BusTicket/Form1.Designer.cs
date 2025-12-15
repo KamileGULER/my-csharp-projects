@@ -29,9 +29,15 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.buttonKaydet = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.maskedTextBox3 = new System.Windows.Forms.MaskedTextBox();
             this.maskedTextBox4 = new System.Windows.Forms.MaskedTextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -41,47 +47,57 @@
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.maskedTextBox2 = new System.Windows.Forms.MaskedTextBox();
             this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBoxNereye = new System.Windows.Forms.ComboBox();
+            this.comboBoxNereden = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.buttonKaydet = new System.Windows.Forms.Button();
-            this.listBox1 = new System.Windows.Forms.ListBox();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            this.checkBoxYetişkin = new System.Windows.Forms.CheckBox();
+            this.checkBoxCocuk = new System.Windows.Forms.CheckBox();
+            this.labelTutar = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.buttonCalculate = new System.Windows.Forms.Button();
             this.numericUpDown2 = new System.Windows.Forms.NumericUpDown();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.panel1.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1551, 100);
+            this.panel1.Size = new System.Drawing.Size(964, 100);
             this.panel1.TabIndex = 0;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::BusTicket.Properties.Resources.busLogo;
+            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(155, 97);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 1;
+            this.pictureBox1.TabStop = false;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label1.ForeColor = System.Drawing.Color.SteelBlue;
-            this.label1.Location = new System.Drawing.Point(27, 30);
+            this.label1.Location = new System.Drawing.Point(281, 31);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(532, 39);
             this.label1.TabIndex = 0;
@@ -97,8 +113,30 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 100);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1551, 622);
+            this.panel2.Size = new System.Drawing.Size(964, 622);
             this.panel2.TabIndex = 1;
+            // 
+            // listBox1
+            // 
+            this.listBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 16;
+            this.listBox1.Location = new System.Drawing.Point(0, 330);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(964, 292);
+            this.listBox1.TabIndex = 0;
+            // 
+            // buttonKaydet
+            // 
+            this.buttonKaydet.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.buttonKaydet.ForeColor = System.Drawing.Color.SteelBlue;
+            this.buttonKaydet.Location = new System.Drawing.Point(0, 292);
+            this.buttonKaydet.Name = "buttonKaydet";
+            this.buttonKaydet.Size = new System.Drawing.Size(958, 37);
+            this.buttonKaydet.TabIndex = 0;
+            this.buttonKaydet.Text = "Kaydet";
+            this.buttonKaydet.UseVisualStyleBackColor = true;
+            this.buttonKaydet.Click += new System.EventHandler(this.buttonKaydet_Click);
             // 
             // groupBox2
             // 
@@ -111,12 +149,41 @@
             this.groupBox2.Controls.Add(this.label7);
             this.groupBox2.Controls.Add(this.label8);
             this.groupBox2.Controls.Add(this.label9);
-            this.groupBox2.Location = new System.Drawing.Point(333, 0);
+            this.groupBox2.Location = new System.Drawing.Point(328, 0);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(341, 340);
+            this.groupBox2.Size = new System.Drawing.Size(346, 286);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Yolcu Bilgileri";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(107, 30);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(119, 22);
+            this.textBox1.TabIndex = 10;
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(183, 119);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(63, 20);
+            this.radioButton2.TabIndex = 9;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "Erkek";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(97, 119);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(62, 20);
+            this.radioButton1.TabIndex = 8;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "Kadın";
+            this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // maskedTextBox3
             // 
@@ -182,15 +249,15 @@
             // 
             this.groupBox1.Controls.Add(this.maskedTextBox2);
             this.groupBox1.Controls.Add(this.maskedTextBox1);
-            this.groupBox1.Controls.Add(this.comboBox2);
-            this.groupBox1.Controls.Add(this.comboBox1);
+            this.groupBox1.Controls.Add(this.comboBoxNereye);
+            this.groupBox1.Controls.Add(this.comboBoxNereden);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.label4);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Location = new System.Drawing.Point(3, 0);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(330, 337);
+            this.groupBox1.Size = new System.Drawing.Size(330, 286);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Kalkış Bilgileri";
@@ -213,35 +280,35 @@
             this.maskedTextBox1.TabIndex = 6;
             this.maskedTextBox1.ValidatingType = typeof(System.DateTime);
             // 
-            // comboBox2
+            // comboBoxNereye
             // 
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Items.AddRange(new object[] {
+            this.comboBoxNereye.FormattingEnabled = true;
+            this.comboBoxNereye.Items.AddRange(new object[] {
             "Isparta",
             "Ankara",
             "İzmir",
             "İstanbul",
             "Karabük",
             "Bursa"});
-            this.comboBox2.Location = new System.Drawing.Point(97, 71);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(121, 24);
-            this.comboBox2.TabIndex = 5;
+            this.comboBoxNereye.Location = new System.Drawing.Point(97, 71);
+            this.comboBoxNereye.Name = "comboBoxNereye";
+            this.comboBoxNereye.Size = new System.Drawing.Size(121, 24);
+            this.comboBoxNereye.TabIndex = 5;
             // 
-            // comboBox1
+            // comboBoxNereden
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.comboBoxNereden.FormattingEnabled = true;
+            this.comboBoxNereden.Items.AddRange(new object[] {
             "Isparta",
             "Ankara",
             "İzmir",
             "İstanbul",
             "Karabük",
             "Bursa"});
-            this.comboBox1.Location = new System.Drawing.Point(97, 33);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
-            this.comboBox1.TabIndex = 4;
+            this.comboBoxNereden.Location = new System.Drawing.Point(97, 33);
+            this.comboBoxNereden.Name = "comboBoxNereden";
+            this.comboBoxNereden.Size = new System.Drawing.Size(121, 24);
+            this.comboBoxNereden.TabIndex = 4;
             // 
             // label5
             // 
@@ -289,115 +356,107 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.panel3.BackColor = System.Drawing.SystemColors.Control;
+            this.panel3.Controls.Add(this.checkBoxYetişkin);
+            this.panel3.Controls.Add(this.checkBoxCocuk);
+            this.panel3.Controls.Add(this.labelTutar);
+            this.panel3.Controls.Add(this.label10);
+            this.panel3.Controls.Add(this.buttonCalculate);
             this.panel3.Controls.Add(this.numericUpDown2);
             this.panel3.Controls.Add(this.numericUpDown1);
-            this.panel3.Controls.Add(this.radioButton4);
-            this.panel3.Controls.Add(this.radioButton3);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel3.Location = new System.Drawing.Point(0, 499);
+            this.panel3.Location = new System.Drawing.Point(670, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(1551, 123);
+            this.panel3.Size = new System.Drawing.Size(288, 286);
             this.panel3.TabIndex = 0;
             // 
-            // radioButton1
+            // checkBoxYetişkin
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(97, 119);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(62, 20);
-            this.radioButton1.TabIndex = 8;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Kadın";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.checkBoxYetişkin.AutoSize = true;
+            this.checkBoxYetişkin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.checkBoxYetişkin.ForeColor = System.Drawing.Color.SteelBlue;
+            this.checkBoxYetişkin.Location = new System.Drawing.Point(21, 65);
+            this.checkBoxYetişkin.Name = "checkBoxYetişkin";
+            this.checkBoxYetişkin.Size = new System.Drawing.Size(97, 24);
+            this.checkBoxYetişkin.TabIndex = 19;
+            this.checkBoxYetişkin.Text = "Yetişkin";
+            this.checkBoxYetişkin.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // checkBoxCocuk
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(183, 119);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(63, 20);
-            this.radioButton2.TabIndex = 9;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Erkek";
-            this.radioButton2.UseVisualStyleBackColor = true;
+            this.checkBoxCocuk.AutoSize = true;
+            this.checkBoxCocuk.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.checkBoxCocuk.ForeColor = System.Drawing.Color.SteelBlue;
+            this.checkBoxCocuk.Location = new System.Drawing.Point(21, 22);
+            this.checkBoxCocuk.Name = "checkBoxCocuk";
+            this.checkBoxCocuk.Size = new System.Drawing.Size(83, 24);
+            this.checkBoxCocuk.TabIndex = 18;
+            this.checkBoxCocuk.Text = "Çocuk";
+            this.checkBoxCocuk.UseVisualStyleBackColor = true;
             // 
-            // buttonKaydet
+            // labelTutar
             // 
-            this.buttonKaydet.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.buttonKaydet.ForeColor = System.Drawing.Color.SteelBlue;
-            this.buttonKaydet.Location = new System.Drawing.Point(702, 268);
-            this.buttonKaydet.Name = "buttonKaydet";
-            this.buttonKaydet.Size = new System.Drawing.Size(158, 49);
-            this.buttonKaydet.TabIndex = 0;
-            this.buttonKaydet.Text = "Kaydet";
-            this.buttonKaydet.UseVisualStyleBackColor = true;
-            this.buttonKaydet.Click += new System.EventHandler(this.buttonKaydet_Click);
+            this.labelTutar.AutoSize = true;
+            this.labelTutar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.labelTutar.ForeColor = System.Drawing.Color.SteelBlue;
+            this.labelTutar.Location = new System.Drawing.Point(165, 193);
+            this.labelTutar.Name = "labelTutar";
+            this.labelTutar.Size = new System.Drawing.Size(19, 20);
+            this.labelTutar.TabIndex = 17;
+            this.labelTutar.Text = "0";
             // 
-            // listBox1
+            // label10
             // 
-            this.listBox1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 16;
-            this.listBox1.Location = new System.Drawing.Point(0, 335);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(1551, 164);
-            this.listBox1.TabIndex = 0;
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label10.ForeColor = System.Drawing.Color.SteelBlue;
+            this.label10.Location = new System.Drawing.Point(17, 193);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(126, 20);
+            this.label10.TabIndex = 16;
+            this.label10.Text = "Toplam Tutar:";
             // 
-            // radioButton3
+            // buttonCalculate
             // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(21, 19);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(66, 20);
-            this.radioButton3.TabIndex = 9;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "Çocuk";
-            this.radioButton3.UseVisualStyleBackColor = true;
-            // 
-            // radioButton4
-            // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(328, 19);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(75, 20);
-            this.radioButton4.TabIndex = 10;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "Yetişkin";
-            this.radioButton4.UseVisualStyleBackColor = true;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(107, 30);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(119, 22);
-            this.textBox1.TabIndex = 10;
-            // 
-            // numericUpDown1
-            // 
-            this.numericUpDown1.Location = new System.Drawing.Point(100, 17);
-            this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(120, 22);
-            this.numericUpDown1.TabIndex = 13;
+            this.buttonCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.buttonCalculate.ForeColor = System.Drawing.Color.SteelBlue;
+            this.buttonCalculate.Location = new System.Drawing.Point(21, 115);
+            this.buttonCalculate.Name = "buttonCalculate";
+            this.buttonCalculate.Size = new System.Drawing.Size(246, 37);
+            this.buttonCalculate.TabIndex = 15;
+            this.buttonCalculate.Text = "Hesapla";
+            this.buttonCalculate.UseVisualStyleBackColor = true;
+            this.buttonCalculate.Click += new System.EventHandler(this.buttonCalculate_Click);
             // 
             // numericUpDown2
             // 
-            this.numericUpDown2.Location = new System.Drawing.Point(410, 19);
+            this.numericUpDown2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.numericUpDown2.ForeColor = System.Drawing.Color.SteelBlue;
+            this.numericUpDown2.Location = new System.Drawing.Point(147, 62);
             this.numericUpDown2.Name = "numericUpDown2";
-            this.numericUpDown2.Size = new System.Drawing.Size(120, 22);
+            this.numericUpDown2.Size = new System.Drawing.Size(120, 27);
             this.numericUpDown2.TabIndex = 14;
+            // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.numericUpDown1.ForeColor = System.Drawing.Color.SteelBlue;
+            this.numericUpDown1.Location = new System.Drawing.Point(147, 21);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(120, 27);
+            this.numericUpDown1.TabIndex = 13;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1551, 722);
+            this.ClientSize = new System.Drawing.Size(964, 722);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
@@ -405,8 +464,8 @@
             this.groupBox1.PerformLayout();
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -428,8 +487,8 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.MaskedTextBox maskedTextBox2;
         private System.Windows.Forms.MaskedTextBox maskedTextBox1;
-        private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBoxNereye;
+        private System.Windows.Forms.ComboBox comboBoxNereden;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
@@ -437,11 +496,15 @@
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.Button buttonKaydet;
         private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.RadioButton radioButton4;
-        private System.Windows.Forms.RadioButton radioButton3;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.NumericUpDown numericUpDown2;
         private System.Windows.Forms.NumericUpDown numericUpDown1;
+        private System.Windows.Forms.Button buttonCalculate;
+        private System.Windows.Forms.Label labelTutar;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.CheckBox checkBoxYetişkin;
+        private System.Windows.Forms.CheckBox checkBoxCocuk;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
